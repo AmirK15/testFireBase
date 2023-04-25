@@ -1,0 +1,13 @@
+.cars{
+  padding: 96px 0 100px;
+  .btn_red{
+    display: block;
+    margin: 60px auto 0;
+  }
+  &__row{
+    display: flex;
+    column-gap: 20px;
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+}

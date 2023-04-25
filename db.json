@@ -1,0 +1,559 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "mark" : "BMW",
+      "model" : "Adilet",
+      "image": "./cars/car1.png",
+      "title": "2019 BMW i3",
+      "bodytype": "Sergey",
+      "drive": "rwd",
+      "engine" : "-",
+      "reserve": 350,
+      "power" : "100bln",
+      "battery" : "100%",
+      "chargtime" : "9,5чcj",
+      "razgon" : "ЧВК РЕДАН",
+      "mileage": 5177,
+      "year": 2019,
+      "price": 15800,
+      "maxskorost" : "500 Sergey/ч",
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "mark" : "Tesla",
+      "model" : "Model 3 Mid Range",
+      "bodytype": "Электромобиль",
+      "engine" : "-",
+      "power" : "258 л.с.",
+      "battery" : "66 квт/ч",
+      "chargtime" : "9,5ч./--/--",
+      "razgon" : "5,6 сек.",
+      "maxskorost" : "201 км/ч",
+      "image": "./cars/car2.png",
+      "title": "2018 Tesla Model 3 Mid",
+      "drive": "rwd",
+      "reserve": 420,
+      "mileage": 15534,
+      "year": 2018,
+      "price": 16800,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "mark" : "Господин Аман",
+      "model" : "Метавселенная",
+      "bodytype": ":?&&^^&*(*",
+      "engine" : "12",
+      "power" : "4367bln",
+      "battery" : "Endlessly",
+      "chargtime" : "?",
+      "razgon" : "0,0000001",
+      "maxskorost" : "3455653",
+      "image": "./cars/car3.png",
+      "title": "2016 Chevrolet Volt II",
+      "drive": "fwd",
+      "reserve": 85,
+      "mileage": 26097,
+      "year": 2016,
+      "price": 16800,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "mark" : "David",
+      "model" : "Pack",
+      "bodytype": "Doter",
+      "engine" : "15",
+      "power" : "Korean Power",
+      "battery" : "ван хандред",
+      "chargtime" : "12h",
+      "razgon" : "0,1",
+      "maxskorost" : "49429894389",
+      "image": "./cars/car4.png",
+      "title": "2013 Tesla Model S60",
+      "drive": "rwd",
+      "reserve": 320,
+      "mileage": 146022,
+      "year": 2013,
+      "price": 25500,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "mark" : "Sergey",
+      "model" : "500",
+      "bodytype": "miner",
+      "engine" : "15",
+      "power" : "Sergey power",
+      "battery" : "атом Амана",
+      "chargtime" : "4367",
+      "razgon" : "1000",
+      "maxskorost" : "0,00000001",
+      "image": "./cars/car5.png",
+      "title": "2014 BMW i3 REX",
+      "drive": "rwd",
+      "reserve": 130,
+      "mileage": 70214,
+      "year": 2014,
+      "price": 15800,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "mark" : "Isa",
+      "model" : "Made in Chine",
+      "bodytype": "Dead Inside",
+      "engine" : "15",
+      "power" : "Binchilin",
+      "battery" : "Imperator",
+      "chargtime" : "0",
+      "razgon" : "0,002",
+      "maxskorost" : "ne",
+      "image": "./cars/car6.png",
+      "title": "2014 Tesla Model S60",
+      "drive": "fwd",
+      "reserve": 320,
+      "mileage": 51822,
+      "year": 2014,
+      "price": 27500,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "mark" : "Amir",
+      "model" : "Kojanov",
+      "bodytype": "Genius",
+      "engine" : "54783",
+      "power" : "GENIUS BIG POWER > АМАН",
+      "battery" : "SUN",
+      "chargtime" : "0,000001",
+      "razgon" : "0,000000000001",
+      "maxskorost" : "Молния Макуин",
+      "image": "./cars/car7.png",
+      "title": "2016 Tesla Model X",
+      "drive": "awd",
+      "reserve": 467,
+      "mileage": 34796,
+      "year": 2016,
+      "price": 68000,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "mark" : "Abdulla",
+      "model" : "Chyngyzov",
+      "bodytype": "Zadrot",
+      "engine" : "15",
+      "power" : "вар тхундер",
+      "battery" : "пешка амана",
+      "chargtime" : "0",
+      "razgon" : "0,002",
+      "maxskorost" : "ne",
+      "image": "./cars/car8.png",
+      "title": "2017 Chevrolet Bolt",
+      "drive": "fwd",
+      "reserve": 380,
+      "mileage": 27340,
+      "year": 2017,
+      "price": 20900,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "mark" : "Nur",
+      "model" : "Made in Ohio",
+      "bodytype": "offnik",
+      "engine" : "15",
+      "power" : "redan",
+      "battery" : "ohio",
+      "chargtime" : "0",
+      "razgon" : "0,002",
+      "maxskorost" : "ne",
+      "image": "./cars/car9.png",
+      "title": "2017 Fiat 500e",
+      "drive": "fwd",
+      "reserve": 160,
+      "mileage": 31563,
+      "year": 2017,
+      "price": 12500,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "mark" : "Saltanat",
+      "model" : "Rich Girl",
+      "bodytype": "Фея",
+      "engine" : "15",
+      "power" : "параш",
+      "battery" : "iphone",
+      "chargtime" : "543",
+      "razgon" : "543",
+      "maxskorost" : "1",
+      "image": "./cars/car10.png",
+      "title": "2018 BMW i3 REX",
+      "drive": "rwd",
+      "reserve": 400,
+      "mileage": 4225,
+      "year": 2018,
+      "price": 27900,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "mark" : "Adilet",
+      "model" : "GENIUS",
+      "bodytype": "Аман",
+      "engine" : "13",
+      "power" : "romibrst",
+      "battery" : "Ohio final boss",
+      "chargtime" : "0",
+      "razgon" : "0,000",
+      "maxskorost" : "fck",
+      "image": "./cars/car11.png",
+      "title": "2018 Tesla Model 3 Mid",
+      "drive": "rwd",
+      "reserve": 420,
+      "mileage": 33864,
+      "year": 2018,
+      "price": 37700,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "mark" : "Igfds",
+      "model" : "Made in ChinvfdadSe",
+      "bodytype": "Dead Invdsside",
+      "engine" : "1fds5",
+      "power" : "Binfdsachilin",
+      "battery" : "Impfdserator",
+      "chargtime" : "0fd",
+      "razgon" : "0,0fds02",
+      "maxskorost" : "nfde",
+      "image": "./cars/car12.png",
+      "title": "2017 Chevrolet Bolt",
+      "drive": "fwd",
+      "reserve": 420,
+      "mileage": 34610,
+      "year": 2017,
+      "price": 22900,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "mark" : "few",
+      "model" : "Madfewfewe in Chine",
+      "bodytype": "Defewqad Inside",
+      "engine" : "15few",
+      "power" : "Bifewnchilin",
+      "battery" : "Imfeperator",
+      "chargtime" : "fewq0",
+      "razgon" : "0,few002",
+      "maxskorost" : "fewne",
+      "image": "./cars/car13.png",
+      "title": "2014 Nissan Leaf",
+      "drive": "fwd",
+      "reserve": 120,
+      "mileage": 68350,
+      "year": 2014,
+      "price": 9500,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "mark" : "Isa",
+      "model" : "Made in Chine",
+      "bodytype": "Dead Inside",
+      "engine" : "15",
+      "power" : "Binchilin",
+      "battery" : "Imperator",
+      "chargtime" : "0",
+      "razgon" : "0,002",
+      "maxskorost" : "ne",
+      "image": "./cars/car14.png",
+      "title": "2015 BYD E6",
+      "drive": "rwd",
+      "reserve": 300,
+      "mileage": 80778,
+      "year": 2015,
+      "price": 8500,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "mark" : "SerGay",
+      "model" : "Made in Chine",
+      "bodytype": "Dead Inside",
+      "engine" : "15",
+      "power" : "Binchilin",
+      "battery" : "Imperator",
+      "chargtime" : "0",
+      "razgon" : "0,002",
+      "maxskorost" : "ne",
+      "image": "./cars/car15.png",
+      "title": "2019 Audi e-Tron",
+      "drive": "awd",
+      "reserve": 446,
+      "mileage": 13000,
+      "year": 2019,
+      "price": 16800,
+      "images": [
+        {
+          "id": 1,
+          "image": "./cars/car2-1.png"
+        },
+        {
+          "id": 2,
+          "image": "./cars/car2-2.png"
+        },
+        {
+          "id": 3,
+          "image": "./cars/car2-3.png"
+        },
+        {
+          "id": 4,
+          "image": "./cars/car2-4.png"
+        }
+      ]
+    }
+  ]
+}

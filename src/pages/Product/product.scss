@@ -1,0 +1,73 @@
+.product{
+  &__img{
+    width: 100%;
+    max-height: 568px;
+  }
+  &__left{
+    width: 757px;
+  }
+  &__image{
+    &-row{
+      //display: flex;
+      //column-gap: 0;
+      img{
+        width: 175px;
+        height: 131px;
+        filter: drop-shadow(0px 5px 48px rgba(49, 47, 47, 0.1));
+        border-radius: 10px;
+      }
+    }
+  }
+  &__list{
+    display: flex;
+    flex-direction: column;
+    row-gap: 23px;
+    &-content{
+      display: flex;
+      background: #FFFFFF;
+      box-shadow: 0 5px 48px rgba(49, 47, 47, 0.1);
+      border-radius: 10px;
+      padding: 28px 20px;
+    }
+  }
+  &__title{
+    font-size: 25px;
+    line-height: 96.5%;
+    color: #0F0F10;
+    font-family: $museo700;
+    text-align: center;
+    margin-bottom: 55px;
+  }
+  &__item{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 111%;
+    color: #0F0F10;
+  }
+  &__itm{
+    font-size: 15px;
+    line-height: 111%;
+    font-family: $museo300;
+    color: #0F0F10;
+  }
+  &__content{
+    display: flex;
+    margin-top: 97px;
+    column-gap: 19px;
+  }
+  &__bottom-name{
+    font-size: 25px;
+    line-height: 96.5%;
+    color: #0F0F10;
+    font-family: $museo700;
+    margin-bottom: 34px;
+    margin-top: 57px;
+  }
+  &__bottom-info{
+    font-size: 15px;
+    line-height: 111%;
+    color: #0F0F10;
+    font-family: $museo300;
+
+  }
+}
